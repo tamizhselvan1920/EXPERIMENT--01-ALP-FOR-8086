@@ -1,6 +1,6 @@
 # EXPERIMENT--01-ALP-FOR-8086
-### Name :Adhithya M R
-### Roll no : 212222240002
+### Name :Tamizh selvan
+### Roll no : 212222230158
 ### Date of experiment :
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
